@@ -13,6 +13,6 @@ public class P06_ConcatenateData {
         String town = scanner.nextLine();
 
 
-        System.out.println("You are " + firstName + " " + lastName + ", a " + age + "-years old person from " + town +".");
+        System.out.printf("You are %s %s,f a %d-years old person from %s.", firstName, lastName, age, town);
     }
 }
