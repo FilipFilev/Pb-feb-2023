@@ -1,4 +1,4 @@
-package L01FirstSteps040223;
+package L01FirstSteps040223.LAB;
 
 import java.util.Scanner;
 
